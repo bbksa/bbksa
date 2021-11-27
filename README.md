@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bbksa
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning Flutter and Dart.
 - 📫 How to reach me:
 E-mail: bibeksa1999@gmail.com 
 Mobile: +977 9817811032
